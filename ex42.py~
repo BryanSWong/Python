@@ -2,14 +2,14 @@
 class Animal(object):
     pass
     
-# Dog is-a Animal
+# Dog is-a class of animal
 class Dog(Animal):
 
     def __init__(self, name):
         # Dog has-a function __init__
         self.name = name
         
-# Cat is-a Animal
+# Cat is-a class
 class Cat(Animal):
 
     def __init__(self, name):

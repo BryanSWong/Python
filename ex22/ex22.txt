@@ -1,0 +1,69 @@
+print: use to display strings with "" or variables by calling them in the proper format
+
+def: use to start a function followed by its name and the amount of arguments it has.
+
+raw_input(): when used as a variable vaule the prompt is used for the input in which the user inputs the value. you can also ask questions.
+
+#: use to make notes in the python languge and it will not show in the code ouput.
+
+""": use to out put out mutli lines of string
+
+from: the command to call from in this case so far from sys(system)
+
+import: is the command to add features or modules from the python features set.
+
+.read(): part of the dot commands that allow you to read files.
+
+.open(): part of the dot commands that allow you to open files.
+
+.close(): part of the dot commands that allow you to close files.
+
+.write(): part of the dot commands that allows you to write to files.
+
+.truncate(): part of the dot commands that allows you to empty a file.
+
+.readline(): part of the dot commands that allows you to read one line of a file.
+
+\: used to escape for special characters that do special functions. 
+
++: the symbol use to add integer together or strings together.
+
+-: the symbol use to subtract integer values.
+
+/: the symbol use to divide integer values.
+
+*: the symbol use to multiply integer values.
+
+%: the symbol used to divide an integer value by another and return the remainder if there is one.
+
+<: the symbol used to check if a integer is less then another.
+
+>: the symbol used to check if a integer is greater then another.
+
+<=: the symbol used to check if a integer is less then or equal to another.
+
+>=: the symbol used to check if a integer us greater then or equal to another.
+
+%r: format code to print as it close to it can to original input.
+
+%d: format code for digits.
+
+%s: format code for strings.
+
+%o: format code to output a inter value in octal form
+
+%x: hexadecimal format for lowercases
+
+%X: hexadecimal format for uppercases
+
+%e: floating point exponetial format lowercases
+
+%E: floating point expontial format uppercases
+
+%f or %F: format for floating point decimal numbers.
+
+%g or %G: more precise floating point number output.
+
+%c: accepts single character stings or digit.
+
+

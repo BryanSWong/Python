@@ -1,0 +1,8 @@
+bin/script.py
+ex46/__init__.py
+ex46/module.py
+ex46mod.egg-info/PKG-INFO
+ex46mod.egg-info/SOURCES.txt
+ex46mod.egg-info/dependency_links.txt
+ex46mod.egg-info/requires.txt
+ex46mod.egg-info/top_level.txt

@@ -1,7 +1,5 @@
 try:
     from setuptools import setup
-    from bin import script
-    
 except ImportError:
     from distutils.core import setup
     

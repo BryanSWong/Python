@@ -1,9 +1,9 @@
 #this module is for some math functions
 
 
-def ADD(self, a, b):
-	self.a = a
-	self.b = b
+def ADD():
+	a = 5
+	b = 6
 	plus = a + b
 
 	return plus
